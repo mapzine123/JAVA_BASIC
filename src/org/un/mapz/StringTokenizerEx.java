@@ -58,11 +58,11 @@ public class StringTokenizerEx {
             System.out.println(token);
         }
     }
-/*
-*  split : 정확하게 delim으로 나눔
-*  StringTokenizer : delim에 포함된 문자 하나하나 다 구분자로 씀
-*
-*/
+    /*
+     *  split : 정확하게 delim으로 나눔
+     *  StringTokenizer : delim에 포함된 문자 하나하나 다 구분자로 씀
+     *
+     */
     public static void main(String[] args) {
         String strEx1 = "this string includes default delims";
         String strEx2 = "this string\ticludes\ndefault delims";
