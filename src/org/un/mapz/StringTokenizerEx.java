@@ -1,4 +1,4 @@
-package org.un.mapz;
+zpackage org.un.mapz;
 
 import java.util.StringTokenizer;
 
